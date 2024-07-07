@@ -1,4 +1,4 @@
-**Expense Tracker** //
+**Expense Tracker** 
 
 
 This project is part of a Java Programming internship and involves the creation of an "Expense Tracker" application. The Expense Tracker is a robust and user-friendly tool that helps users manage and monitor their expenses efficiently.
